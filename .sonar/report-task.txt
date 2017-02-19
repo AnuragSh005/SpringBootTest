@@ -1,0 +1,5 @@
+projectKey=org.sonarqube:springBootTest
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/org.sonarqube:springBootTest
+ceTaskId=AVo2Kzk3wV0SFq08hN-E
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVo2Kzk3wV0SFq08hN-E
